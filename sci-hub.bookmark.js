@@ -1,1 +1,1 @@
-javascript:location.hostname += '.sci-hub.bz'
+javascript:location.hostname += '.sci-hub.cc'
