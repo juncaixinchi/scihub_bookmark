@@ -9,4 +9,6 @@ You can change ".sci-hub.cc" to following url:
 
 2 .sci-hub.io
 
+3 .sci-hub.ac
+
 To use, create a new bookmark and paste the Javascript code into the address box. If you do not have access to a paper, clicking the bookmark will reload the page using Sci-Hub.
